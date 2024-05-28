@@ -1,8 +1,7 @@
 
-  # Hi, I am Vaibhav Maheshwari👋
-  <p align="center"style="bold">A passionate developer from India</p>
-
-
+  # Hi, I am Vaibhav Maheshwari👋  
+  ## A passionate developer from India
+ 
 - 🔭 I’m currently working on mastering programming skills
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: vaibhavmaheshwari6490@gmail.com
