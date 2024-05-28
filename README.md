@@ -1,6 +1,6 @@
 
   # Hi, I am Vaibhav Maheshwari👋
-  A passionate developer from India
+  <p align="center">#A passionate developer from India</p>
 
 
 - 🔭 I’m currently working on mastering programming skills
